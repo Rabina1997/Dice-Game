@@ -43,7 +43,7 @@ their rank.
 
 How to run the code?
 
-  the code is in python so you can just copy or download the file and run in any python compiler 
+  main(1).py => the code is in python so you can just copy or download the file and run in any python compiler 
   Make sure the indentation is proper after copying otherwise python codes give error if the indentation is not proper.
   
   
